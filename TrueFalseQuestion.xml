@@ -1,0 +1,21 @@
+<question type="truefalse">
+   <name>
+      <text>La révolution française a-t-elle eu lieu en 1602 ?</text>
+   </name>
+   <questiontext format="html">
+      <text></text>
+   </questiontext>
+
+   <answer fraction="100">
+      <text>Vrai</text>
+      <feedback>
+         <text>Correct !</text>
+      </feedback>
+   </answer>
+   <answer fraction="0">
+      <text>Faux</text>
+      <feedback>
+         <text>Ooops !</text>
+      </feedback>
+   </answer>
+</question>
