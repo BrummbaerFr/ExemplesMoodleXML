@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<question type="shortanswer">
+   <name>
+      <text>Date de la conquête de l'Angleterre par Guillaume le Conquérant</text>
+   </name>
+
+   <answer fraction="100">
+      <text>1066</text>
+      <feedback>
+         <text>Correct !</text>
+      </feedback>
+   </answer>
+   
+   <answer fraction="0">
+      <text>2020</text>
+      <feedback>
+         <text>Faux</text>
+      </feedback>
+   </answer>
+</question>
